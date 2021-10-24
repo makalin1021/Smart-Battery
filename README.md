@@ -22,4 +22,8 @@ WI-FI and BT connection and System Control with ESP32 Wroom-32D MCU
 
 0.96 Inches OLED Control Screen 
 
-![](images/Smart-Battery/WhatsApp Image 2021-10-10 at 13.28.09.jpeg)
+[PCB 2D](https://user-images.githubusercontent.com/67636340/138589157-cde70bc7-9953-45c6-9fa5-315a10809b0b.PNG)
+
+![PCB 3D Front](https://user-images.githubusercontent.com/67636340/138589165-3296cbfc-25cd-4666-aae2-b4b6526a3af1.PNG)
+
+![PCB 3D Back](https://user-images.githubusercontent.com/67636340/138589167-19716441-a29b-4878-aecb-33a37d61350f.PNG)

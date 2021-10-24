@@ -20,9 +20,11 @@ Current Sensing and Kelvin connection with BQ24704
 
 FDS6680A MOSFET
 
-MCP73830T 1S-2S 0-2A Li-Ion and Li-Po Charger (Adjustable with MCP4013)
+MCP73830T 1S-2S 0-2A Li-Ion and Li-Po charger (Adjustable with MCP4013)
 
-WI-FI and BT connection and System Control with ESP32 Wroom-32D MCU 
+24W Adjustable power supply output
+
+WI-FI and BT connection and system control with ESP32 Wroom-32D MCU 
 
 0.96 Inches OLED Control Screen 
 

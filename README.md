@@ -28,6 +28,8 @@ WI-FI and BT connection and system control with ESP32 Wroom-32D MCU
 
 0.96 Inches OLED Control Screen 
 
+You will see code so soon!
+
 ![PCB 2D](https://user-images.githubusercontent.com/67636340/138589157-cde70bc7-9953-45c6-9fa5-315a10809b0b.PNG)
 
 ![PCB 3D Front](https://user-images.githubusercontent.com/67636340/138589165-3296cbfc-25cd-4666-aae2-b4b6526a3af1.PNG)

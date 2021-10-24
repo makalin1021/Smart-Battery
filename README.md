@@ -4,7 +4,11 @@ TUBITAK Aiming to promote, direct and popularize science and technology in Turke
 
 This Project has; 
 
-12W AC/DC converter with FLYBACK topologies
+4 Layer FR4 1 oZ PCB (without Blind and Buried vias)
+
+Stackup: 1.Top Layer, 2.GND Plane, 3.Power Plane and 4.Bottom Layer
+
+12W AC/DC converter with Flyback topologies(NCP1014AG Flyback Controller)
 
 LM2596 5V/3A Buck Converter
 
@@ -14,9 +18,9 @@ BQ24704 3S-4S 0-10A Li-Ion and Li-Po Charger
 
 Current Sensing and Kelvin connection with BQ24704
 
-FDS6680A MOSFET Control
+FDS6680A MOSFET
 
-MCP73830T 1S-2S 0-2A Li-Ion and Li-Po Charger 
+MCP73830T 1S-2S 0-2A Li-Ion and Li-Po Charger (Adjustable with MCP4013)
 
 WI-FI and BT connection and System Control with ESP32 Wroom-32D MCU 
 

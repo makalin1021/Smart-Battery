@@ -1,0 +1,4 @@
+Remove Pin=JT1-2 From Net=VOut
+Remove Pin=T1-2 From Net=D
+Remove Pin=T1-3 From Net=VCC
+Remove Pin=T1-5 From Net=T_Out

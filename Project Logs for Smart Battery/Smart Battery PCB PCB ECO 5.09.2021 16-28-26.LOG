@@ -1,0 +1,6 @@
+Added Component: Designator=JT1(jump poýnt)
+Added Component: Designator=TP1(Test Point)
+Added Pin To Net: NetName=NetC49_2 Pin=JT1-1
+Added Pin To Net: NetName=ACGOOD Pin=TP1-1
+Added Member To Class: ClassName=ADJ Power managment Member=Component JT1 Jump point
+Added Member To Class: ClassName=3S/4S BAT CHG Member=Component TP1 Test point

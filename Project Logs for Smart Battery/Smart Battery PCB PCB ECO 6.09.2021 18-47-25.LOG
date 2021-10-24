@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TXD Pin=R13-1
+Removed Pin From Net: NetName=RXD Pin=R14-1
+Added Pin To Net: NetName=RXD Pin=R13-1
+Added Pin To Net: NetName=TXD Pin=R14-1
+Added Member To Class: ClassName=MCU Member=Component S3 1977223-9

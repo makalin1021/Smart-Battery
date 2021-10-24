@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BUT2 Pin=MCU-13
+Removed Pin From Net: NetName=BUT1 Pin=MCU-14
+Removed Pin From Net: NetName=BUT3 Pin=MCU-37
+Change Component Description : Designator=T1 Old Description=International One-4-All Triple Output Transformer New Description=International One-4-All Triple Output Transformer | 30VA Power | 115V/230V Input
+Added Pin To Net: NetName=BUT3 Pin=MCU-13
+Added Pin To Net: NetName=BUT2 Pin=MCU-14
+Added Pin To Net: NetName=BUT1 Pin=MCU-37
+Added Member To Class: ClassName=AC/DC Member=Component TF1 PLY10AN1430R5R2B

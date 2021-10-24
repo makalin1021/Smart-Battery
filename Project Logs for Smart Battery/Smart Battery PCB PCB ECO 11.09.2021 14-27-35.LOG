@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=3S Pin=S1-1
+Removed Pin From Net: NetName=4S Pin=S1-3
+Change Component Footprint: Designator=P5 Old Footprint=JST-S5B-PH-SM4-TB_V New Footprint=SHDR5W114P0X396_1X5_1974X850X1090P
+Change Component Comment : Designator=P5 Old Comment=S5B-PH-SM4-TB(LF)(SN) New Comment=_D__B5P-VH-BK__LF__SN_
+Change Managed Component Library Link : Designator=P5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=64ACA268-D3D4-40F4-9436-9D0377C491C0 New ItemGUID= Old RevisionGUID=0CCE3AD6-4770-4F3B-980D-E5E245955600 New RevisionGUID=
+Change component parameters: Designator = "P5" ("P5"); Footprint = "JST-S5B-PH-SM4-TB_V"; UniqueID = "\TZTPAXQY\QHPZFLEO" ("\TZTPAXQY\QHPZFLEO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "(D) B5P-VH-BK (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/JST/D-B5P-VH-BK-LFSN?qs=wnTfsH77Xs6D1q6ZybO7cA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4S Pin=S1-1
+Added Pin To Net: NetName=3S Pin=S1-3
+Change Net Name : Old Net Name=3S New Net Name=4S
+Change Net Name : Old Net Name=4S New Net Name=3S
+Added Member To Class: ClassName=AC/DC Member=Component TF1 PLY10AN1430R5R2B

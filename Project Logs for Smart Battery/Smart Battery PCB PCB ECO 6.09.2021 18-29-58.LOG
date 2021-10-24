@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ACP Pin=C47-2
+Removed Pin From Net: NetName=ACP Pin=C48-2
+Removed Pin From Net: NetName=ACP Pin=U9-3
+Added Pin To Net: NetName=VÝN Pin=C47-2
+Added Pin To Net: NetName=VÝN Pin=C48-2
+Added Pin To Net: NetName=VÝN Pin=S4-2
+Added Pin To Net: NetName=VÝN Pin=U9-3
+Added Net: Name=VÝN
+Added Room: Name=AC/DC

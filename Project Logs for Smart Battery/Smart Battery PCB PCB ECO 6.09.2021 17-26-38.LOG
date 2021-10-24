@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PROG_1 Pin=IC2-5
+Removed Pin From Net: NetName=PROG_1 Pin=IC2-6
+Added Pin To Net: NetName=PROG_2 Pin=IC2-5
+Added Pin To Net: NetName=PROG_2 Pin=IC2-6

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BUT3 Pin=MCU-13
+Removed Pin From Net: NetName=BUT2 Pin=MCU-14
+Removed Pin From Net: NetName=BUT1 Pin=MCU-37
+Added Pin To Net: NetName=BUT1 Pin=MCU-13
+Added Pin To Net: NetName=BUT3 Pin=MCU-14
+Added Pin To Net: NetName=BUT2 Pin=MCU-37

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=N.BAT Pin=S1-2
+Change Component Designator: OldDesignator=BOOT NewDesignator=S9
+Change Component Designator: OldDesignator=DOWN NewDesignator=S7
+Change Component Designator: OldDesignator=EN NewDesignator=S3
+Change Component Designator: OldDesignator=OK NewDesignator=S5
+Change Component Designator: OldDesignator=UP NewDesignator=S6
+Added Pin To Net: NetName=BAT Pin=S1-2

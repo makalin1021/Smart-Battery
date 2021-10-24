@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=AGND Pin=C1-1
+Removed Pin From Net: NetName=AGND Pin=C4-2
+Change Component Description : Designator=T1 Old Description=International One-4-All Triple Output Transformer New Description=International One-4-All Triple Output Transformer | 30VA Power | 115V/230V Input
+Added Component: Designator=U8(RGE24_2P45X2P45)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FAMILY_NAME"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GENERIC_PART_NUMBER"; Value = "BQ24704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE_DESIGNATOR"; Value = "RGE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIN_COUNT"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INDUSTRY_STD_PKG_TYPE"; Value = "Unknown"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PE Pin=C1-1
+Added Pin To Net: NetName=PE Pin=C4-2
+Added Pin To Net: NetName=VOut Pin=JT1-2
+Added Pin To Net: NetName=CELLS Pin=S2-2
+Added Pin To Net: NetName=PVCC Pin=U8-1
+Added Pin To Net: NetName=NetR20_1 Pin=U8-2
+Added Pin To Net: NetName=ACN Pin=U8-3
+Added Pin To Net: NetName=ACP Pin=U8-4
+Added Pin To Net: NetName=ACDET Pin=U8-5
+Added Pin To Net: NetName=ACSET Pin=U8-6
+Added Pin To Net: NetName=AGND Pin=U8-7
+Added Pin To Net: NetName=Power Input 3V3 Pin=U8-8
+Added Pin To Net: NetName=REGN Pin=U8-9
+Added Pin To Net: NetName=ACGOOD Pin=U8-10
+Added Pin To Net: NetName=Iadapt Pin=U8-12
+Added Pin To Net: NetName=SRSET Pin=U8-13
+Added Pin To Net: NetName=BAT Pin=U8-14
+Added Pin To Net: NetName=BAT Pin=U8-15
+Added Pin To Net: NetName=RSR Pin=U8-16
+Added Pin To Net: NetName=CELLS Pin=U8-17
+Added Pin To Net: NetName=DPMDET Pin=U8-18
+Added Pin To Net: NetName=AGND Pin=U8-19
+Added Pin To Net: NetName=LODRV Pin=U8-20
+Added Pin To Net: NetName=REGN Pin=U8-21
+Added Pin To Net: NetName=N.BAT Pin=U8-22
+Added Pin To Net: NetName=HIDRV Pin=U8-23
+Added Pin To Net: NetName=BTST Pin=U8-24
+Added Pin To Net: NetName=AGND Pin=U8-25
+Added Member To Class: ClassName=AC/DC Member=Component TF1 PLY10AN1430R5R2B
+Added Member To Class: ClassName=3S/4S BAT CHG Member=Component U8 BQ24704RGER

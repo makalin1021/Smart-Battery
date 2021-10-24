@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=EN Pin=S3-1
+Removed Pin From Net: NetName=EN Pin=S3-2
+Removed Pin From Net: NetName=AGND Pin=S3-3
+Removed Pin From Net: NetName=AGND Pin=S3-4
+Removed Member From Class: ClassName=MCU Member=S3
+Added Member To Class: ClassName=3S/4S BAT CHG Member=Component U8 BQ24704RGER

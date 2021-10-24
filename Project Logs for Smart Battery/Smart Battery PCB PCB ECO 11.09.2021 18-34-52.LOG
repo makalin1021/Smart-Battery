@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CELLS Pin=MCU-6
+Removed Pin From Net: NetName=CHGEN Pin=MCU-7
+Added Pin To Net: NetName=CHGEN Pin=MCU-6
+Added Pin To Net: NetName=CELLS Pin=MCU-7
+Added Member To Class: ClassName=AC/DC Member=Component T1 Transformer

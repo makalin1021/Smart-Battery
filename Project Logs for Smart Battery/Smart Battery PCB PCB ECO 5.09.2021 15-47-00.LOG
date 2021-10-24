@@ -1,0 +1,14 @@
+Added Component: Designator=J2(Barrier Strip)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "8-1437652-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=J2-1
+Added Pin To Net: NetName=DC+ Pin=J2-2
+Added Pin To Net: NetName=N Pin=J2-4
+Added Pin To Net: NetName=Phase Pin=J2-5
+Added Pin To Net: NetName=PE Pin=J2-3
+Added Net: Name=PE
+Added Member To Class: ClassName=INPUT POWER Member=Component J2 8-1437652-5

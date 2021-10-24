@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BAT1 Pin=MCU-27
+Removed Pin From Net: NetName=2S_C2 Pin=MCU-28
+Removed Pin From Net: NetName=2S_C1 Pin=MCU-29
+Added Pin To Net: NetName=2S_C2 Pin=MCU-27
+Added Pin To Net: NetName=2S_C1 Pin=MCU-28
+Added Pin To Net: NetName=BAT1 Pin=MCU-29
